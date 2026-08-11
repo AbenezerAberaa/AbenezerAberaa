@@ -1,5 +1,5 @@
 # 👋 Hello, I'm **Abenezer Abera**  
-### **Software Engineer | Full Stack Developer | Problem Solver**  
+### **Software Engineer**  
 
 📧 **Email:** [abenezer.abera623@gmail.com](mailto:abenezer.abera623@gmail.com)  
 🌐 **Connect:**  
